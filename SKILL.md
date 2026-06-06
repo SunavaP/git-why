@@ -104,7 +104,7 @@ Work through this before writing your response:
 **Input:**
 ```
 commit a3f8c21
-Author: Sarah Chen
+Author: SunavaP
 Date: 3 months ago
 fix: token validation race condition under high load
 
