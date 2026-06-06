@@ -32,7 +32,7 @@ Simply paste any git terminal output or raw code snippet into Claude and ask *"w
 **You paste this code diff into Claude:**
 ```go
 commit a3f8c21
-Author: Sarah Chen
+Author: SunavaP
 fix: token validation race condition under high load
 
 -func validateToken(tok string) error {
